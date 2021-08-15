@@ -1,0 +1,30 @@
+
+/* product-section */
+
+#grayscale{
+    filter: grayscale(100%);
+}
+
+/* ----- 0 ----- */
+
+/* custom css-- */
+
+.bg-home{
+    background-color: #264653;
+}
+
+.bg-btn-custom{
+    background: #E76F51;
+}
+
+.base-text-color{
+    color: #E76F51;
+}
+
+.honda-text-dark{
+    color: gray;
+
+}
+
+/* ----- 0 ----- */
+
